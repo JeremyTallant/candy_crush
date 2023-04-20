@@ -23,7 +23,7 @@ After completing the installation, launch Jupyter Notebook, navigate to the fold
 ## Contents
 1. **Candy Crush Saga:** Load in the packages we're going to need for the project.
 2. **The data set:** Load in the dataset and display the first couple of rows. 
-3. **Checking the data set:**
+3. **Checking the data set:** Count how many players are in the dataset and how many days it spans.
 4. **Computing level difficulty:**
 5. **Plotting difficulty profile:**
 6. **Spotting hard levels:**
