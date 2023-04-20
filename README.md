@@ -22,7 +22,7 @@ IRkernel::installspec()
 After completing the installation, launch Jupyter Notebook, navigate to the folder containing the notebook file, and open it to begin running the analysis.
 ## Contents
 1. **Candy Crush Saga:** Load in the packages we're going to need for the project.
-2. **The data set:**
+2. **The data set:** Load in the dataset and display the first couple of rows. 
 3. **Checking the data set:**
 4. **Computing level difficulty:**
 5. **Plotting difficulty profile:**
