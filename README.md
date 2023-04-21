@@ -30,4 +30,4 @@ After completing the installation, launch Jupyter Notebook, navigate to the fold
 7. **Computing uncertainty:** Compute the standard error of the difficulty for each level using the given formula.
 8. **Showing uncertainty:** Add error bars to the difficulty profile plot.
 9. **A final metric:** Calculate how likely is it that a player will complete all the levels in the first attempt.
-10. **Should our level designer worry?:**
+10. **Should our level designer worry?:** Should our level designer worry that a lot of players will complete the episode in one attempt?
