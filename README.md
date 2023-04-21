@@ -29,5 +29,5 @@ After completing the installation, launch Jupyter Notebook, navigate to the fold
 6. **Spotting hard levels:** Add points to the plot and a horizontal dashed line at the 10% value.
 7. **Computing uncertainty:** Compute the standard error of the difficulty for each level using the given formula.
 8. **Showing uncertainty:** Add error bars to the difficulty profile plot.
-9. **A final metric:**
+9. **A final metric:** Calculate how likely is it that a player will complete all the levels in the first attempt.
 10. **Should our level designer worry?:**
