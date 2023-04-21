@@ -27,7 +27,7 @@ After completing the installation, launch Jupyter Notebook, navigate to the fold
 4. **Computing level difficulty:** Calculate the probability of winning a level in a single attempt for each level.
 5. **Plotting difficulty profile:** Plot a line graph with the difficulty for each level.
 6. **Spotting hard levels:** Add points to the plot and a horizontal dashed line at the 10% value.
-7. **Computing uncertainty:**
+7. **Computing uncertainty:** Compute the standard error of the difficulty for each level using the given formula.
 8. **Showing uncertainty:**
 9. **A final metric:**
 10. **Should our level designer worry?:**
