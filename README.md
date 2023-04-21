@@ -26,7 +26,7 @@ After completing the installation, launch Jupyter Notebook, navigate to the fold
 3. **Checking the data set:** Count how many players are in the dataset and how many days it spans.
 4. **Computing level difficulty:** Calculate the probability of winning a level in a single attempt for each level.
 5. **Plotting difficulty profile:** Plot a line graph with the difficulty for each level.
-6. **Spotting hard levels:**
+6. **Spotting hard levels:** Add points to the plot and a horizontal dashed line at the 10% value.
 7. **Computing uncertainty:**
 8. **Showing uncertainty:**
 9. **A final metric:**
